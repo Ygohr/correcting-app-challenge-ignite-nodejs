@@ -7,15 +7,11 @@ Este desafio tem como objetivo a correção de uma aplicação que está em proc
 Essa aplicação realiza o **CRUD** (Create, Read, Update, Delete) de repositórios de **projetos**. Além disso, é possível dar _likes_ em repositórios cadastrados, aumentando a quantidade de likes em 1 a cada vez que a rota é chamada.
 A estrutura de um repositório ao ser criado é a seguinte: 
 
-```jsx
-{
-  id: uuid(),
-  title,
-  url,
-  techs,
-  likes: 0
-}
-```
+- **id** deve ser um uuid válido;
+- **title** é o título do repositório (por exemplo "unform");
+- **url** é a URL que aponta para o repositório (por exemplo "[https://github.com/unform/unform](https://github.com/unform/unform)");
+- **techs** é um array onde cada elemento deve ser uma string com o nome de uma tecnologia relacionada ao repositório (por exemplo: ["react", "react-native", "form"]);
+- **likes** é a quantidade de likes que o repositório recebeu (e que vai ser incrementada de 1 em 1 a cada chamada na rota de likes).
 
 O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
 
