@@ -5,6 +5,17 @@
 ## :pushpin: Sobre o Desafio
 Este desafio tem como objetivo a correção de uma aplicação que está em processo de desenvolvimento mas que já possui os testes necessários para fazer toda a validação dos requisitos.
 Essa aplicação realiza o **CRUD** (Create, Read, Update, Delete) de repositórios de **projetos**. Além disso, é possível dar _likes_ em repositórios cadastrados, aumentando a quantidade de likes em 1 a cada vez que a rota é chamada.
+A estrutura de um repositório ao ser criado é a seguinte: 
+
+```jsx
+{
+  id: uuid(),
+  title,
+  url,
+  techs,
+  likes: 0
+}
+```
 
 O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
 
