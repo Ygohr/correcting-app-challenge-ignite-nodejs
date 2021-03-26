@@ -13,10 +13,10 @@ A estrutura de um repositório ao ser criado é a seguinte:
 - **techs** é um array onde cada elemento deve ser uma string com o nome de uma tecnologia relacionada ao repositório (por exemplo: ["react", "react-native", "form"]);
 - **likes** é a quantidade de likes que o repositório recebeu (e que vai ser incrementada de 1 em 1 a cada chamada na rota de likes).
 
-O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
+O _template_ de arquivos utilizado neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
 
 ## 📋 Requisitos e Regras de Negócio
-O documento de referência de Requisitos e Regras de Negócio pode acessado através deste [**link.**](https://www.notion.so/Requisitos-e-Regras-de-Neg-cio-Corrigindo-Bugs-Problemas-Desafio-3-Ignite-fd8fc60292394f11855e568edc156ef3)
+O documento de referência de Requisitos e Regras de Negócio pode ser acessado através deste [**link.**](https://www.notion.so/Requisitos-e-Regras-de-Neg-cio-Corrigindo-Bugs-Problemas-Desafio-3-Ignite-fd8fc60292394f11855e568edc156ef3)
 
 ## 💻 Instalação, Dependências e Executando o Projeto
 **1.** Clone este repositório 
