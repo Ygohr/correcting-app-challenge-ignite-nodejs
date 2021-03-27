@@ -2,7 +2,7 @@
 ![](assets/capa_ignite.png)
 <br>
 
-## :pushpin: Sobre o Desafio
+## :pushpin: Sobre
 Este desafio tem como objetivo a correção de uma aplicação que está em processo de desenvolvimento mas que já possui os testes necessários para fazer toda a validação dos requisitos.
 Essa aplicação realiza o **CRUD** (Create, Read, Update, Delete) de repositórios de **projetos**. Além disso, é possível dar _likes_ em repositórios cadastrados, aumentando a quantidade de likes em 1 a cada vez que a rota é chamada.
 A estrutura de um repositório ao ser criado é a seguinte: 
